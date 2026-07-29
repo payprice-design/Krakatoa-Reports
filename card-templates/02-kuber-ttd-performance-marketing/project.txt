@@ -3,7 +3,7 @@ TEAM: Trista Chlorellano Garno
 TEAM AVATAR: Trista.png
 IMAGE:
 VIDEO:
-DESCRIPTION: Designed and executed alignment workshops to bridge TTD Commercial, Performance Marketing, and Pricing teams regarding needs on Pricing and Promo Dashboards.
+DESCRIPTION: Designed and executed alignment workshops to bridge TTD Commercial, Performance Marketing, and Pricing teams regarding needs on Pricing and Promo Dashboards. Resulting in several ready to acted upon initiatives
 IMPACT: Directly resulted in >20 distinct items ready to act upon and >15 items funneled into planned technical development.
 START DATE: 30 Mar 2026
 LAUNCH DATE: 10 Jul 2026
