@@ -438,11 +438,11 @@ export default function FeaturesSection() {
   return (
     <section className="relative px-5 py-20 md:px-10 md:py-40 lg:h-screen lg:overflow-hidden lg:px-16 lg:py-0">
       {/* Fixed interactive dot-grid background (reacts to cursor + clicks) */}
-      <div className="fixed inset-0 -z-10 bg-[#F4F1F8] dark:bg-[#120F17]">
+      <div className="fixed inset-0 -z-10 bg-[#F4F1F8] dark:bg-[#2a2a2e]">
         <DotGrid
           dotSize={3}
           gap={17}
-          baseColor={theme === 'dark' ? '#26272f' : '#d4d0dd'}
+          baseColor={theme === 'dark' ? '#45454f' : '#d4d0dd'}
           activeColor={theme === 'dark' ? '#8ab4ff' : '#5227FF'}
           proximity={150}
           shockRadius={290}
@@ -485,7 +485,7 @@ export default function FeaturesSection() {
                   className={`rounded-lg px-4 py-3 text-left text-base font-semibold transition-colors ${
                     activeIndex === i
                       ? 'bg-white text-neutral-900 dark:bg-black/80 dark:text-white'
-                      : 'bg-white/90 text-neutral-400 dark:bg-[#121212] dark:text-white/20'
+                      : 'bg-white/90 text-neutral-400 hover:bg-white hover:text-neutral-600 dark:bg-[#121212] dark:text-white/20 dark:hover:bg-[#1a1a1a] dark:hover:text-white/40'
                   }`}
                 >
                   {project.title}

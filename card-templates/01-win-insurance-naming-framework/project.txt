@@ -1,0 +1,10 @@
+TITLE: WIN Insurance Naming Framework
+TEAM: Christopher Trista, Edward
+TEAM AVATAR: Trista.png, Egi.png
+IMAGE: WIN.png
+VIDEO:
+DESCRIPTION: belum ada
+IMPACT: Belum ada
+START DATE: April 2026
+LAUNCH DATE: 30 July 2026
+END DATE:
